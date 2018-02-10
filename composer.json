@@ -1,5 +1,5 @@
 {
-    "name": "udokmeci/yii2-kont-trevor",
+    "name": "bethrezen/yii2-kont-trevor",
     "type": "library",
     "description": "Yii2 Sir Trevor + Mustache Custom Block Generator",
     "keywords": ["sir trevor","content builder","yii2"],
@@ -20,7 +20,7 @@
     "require": {
         "php": ">=5.3.0",
         "yiisoft/yii2": "*",
-        "perminder-klair/yii2-sir-trevor-js": "0.0.5",
+        "perminder-klair/yii2-sir-trevor-js": "~0.0.6",
         "apollo/yii2-i18next" : "*",
         "bower-asset/sir-trevor-js": "*",
         "xfg/yii2-mustache.js":"*",
