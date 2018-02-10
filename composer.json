@@ -4,6 +4,7 @@
     "description": "Yii2 Sir Trevor + Mustache Custom Block Generator",
     "keywords": ["sir trevor","content builder","yii2"],
     "homepage": "https://github.com/udokmeci/yii2-kont-trevor",
+    "minimum-stability": "dev",
     "license": "MIT",
     "authors": [
         {
